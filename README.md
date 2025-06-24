@@ -1,2 +1,2 @@
-# Obrigado-a-ou-nao
+# Obrigado a votar ou não
 Meu primeiro repositório
