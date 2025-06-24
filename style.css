@@ -1,0 +1,26 @@
+h1 {
+background-color: rgb(168, 216, 55);
+color: rgb(10, 10, 10);
+font: normal 50pt Arial;
+text-align: center;
+}
+p {
+color: bisque;
+}
+body {
+background-color: rgb(84, 154, 167);
+text-align: center;
+padding: 20px;
+}
+#app {
+    display: none;
+}
+.res {
+    margin-top: 20px;
+}
+div {
+    font: normal 35pt Arial;
+}
+u {
+    color:rgb(10, 10, 10)
+}
